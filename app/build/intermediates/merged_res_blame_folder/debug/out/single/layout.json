@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-mergeDebugResources-4:\\layout\\remote_view.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\remote_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-mergeDebugResources-4:\\layout\\screen_events.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\screen_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-mergeDebugResources-4:\\layout\\screen_splash.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\screen_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-mergeDebugResources-4:\\layout\\dialog_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\dialog_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-mergeDebugResources-4:\\layout\\item_event.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "uz.gita.eventsapp-mergeDebugResources-4:/layout/screen_test.xml",
+        "source": "uz.gita.eventsapp-main-7:/layout/screen_test.xml"
+    }
+]

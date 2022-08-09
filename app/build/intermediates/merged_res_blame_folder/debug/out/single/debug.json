@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_storage_low.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_storage_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_wifi_on.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_wifi_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_battery_low.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\battery_low.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\anim_anim_from_right_splash.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\anim\\anim_from_right_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_screen_on.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\screen_on.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_wrong.aac.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\wrong.aac"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_background_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\background_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_dialog_bottom.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\dialog_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_quit.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_quit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_battery_ok.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_battery_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\anim_anim_to_left_splash.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\anim\\anim_to_left_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_item_event.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_disable.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_disconnected.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_disconnected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_battery_charging_off.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_battery_charging_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_screen_splash.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\screen_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_wifi_off.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_wifi_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_remote_view.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\remote_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\menu_menu_toolbar.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\menu\\menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_screen_events.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\screen_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_screen_off.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\screen_off.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_enable.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_enable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_power_connected.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\power_connected.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_background_bottom_sheet_dialog_line.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\background_bottom_sheet_dialog_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_time_changed.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\time_changed.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_screen_off.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_screen_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_battery_low.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_battery_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_battery_ok.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\battery_ok.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\navigation_navigation_graph.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\navigation\\navigation_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_screen_on.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_screen_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_bluetooth_on.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_bluetooth_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_airplane_mode_changed.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\airplane_mode_changed.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_airplane.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_airplane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_battery_charging_on.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_battery_charging_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_time_changed.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_time_changed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_connected.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_connected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\layout_screen_test.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\layout\\screen_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_rate.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_rate.xml"
+    },
+    {
+        "merged": "uz.gita.eventsapp-merged_res-5:/navigation_navigation_graph.xml.flat",
+        "source": "uz.gita.eventsapp-main-7:/navigation/navigation_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\drawable_ic_bluetooth_off.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\drawable\\ic_bluetooth_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_storage_low.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\storage_low.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\raw_power_disconnected.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\raw\\power_disconnected.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-merged_res-5:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\uz.gita.eventsapp-main-7:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    }
+]

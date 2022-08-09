@@ -1,0 +1,175 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uz.gita.eventsappMBF"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:6:5-77
+11-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:6:22-74
+12
+13    <application
+13-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:8:5-68:19
+14        android:name="uz.gita.eventsapp.app.App"
+14-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:9:9-32
+15        android:allowBackup="true"
+15-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\Lenovo\.gradle\caches\transforms-3\cc8a43255dce362bd0d1db0d847cae10\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:dataExtractionRules="@xml/data_extraction_rules"
+17-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:11:9-65
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:12:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:13:9-43
+20        android:label="@string/app_name"
+20-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:14:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:15:9-54
+22        android:supportsRtl="true"
+22-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:16:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.EventsApp" >
+24-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:17:9-47
+25        <activity
+25-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:19:9-27:20
+26            android:name="uz.gita.eventsapp.MainActivity"
+26-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:20:13-41
+27            android:exported="true" >
+27-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:21:13-36
+28            <intent-filter>
+28-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:22:13-26:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:23:17-69
+29-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:25:17-77
+31-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:25:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <receiver
+35-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:29:9-45:20
+36            android:name="uz.gita.eventsapp.presentation.broadcast.EventsReceiver"
+36-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:30:13-66
+37            android:enabled="true"
+37-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:31:13-35
+38            android:exported="true" >
+38-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:32:13-36
+39            <intent-filter>
+39-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:34:13-43:29
+40                <action android:name="android.intent.action.AIRPLANE_MODE" />
+40-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:35:17-77
+40-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:35:25-75
+41                <action android:name="android.intent.action.SCREEN_ON" />
+41-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:36:17-74
+41-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:36:25-71
+42                <action android:name="android.intent.action.SCREEN_OFF" />
+42-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:37:17-75
+42-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:37:25-72
+43                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+43-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:38:17-87
+43-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:38:25-84
+44                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+44-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:39:17-90
+44-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:39:25-87
+45                <action android:name="android.intent.action.BATTERY_OKAY" />
+45-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:40:17-77
+45-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:40:25-74
+46                <action android:name="android.intent.action.BATTERY_LOW" />
+46-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:41:17-76
+46-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:41:25-73
+47                <action android:name="android.intent.action.PHONE_STATE" />
+47-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:42:17-76
+47-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:42:25-73
+48            </intent-filter>
+49        </receiver>
+50        <receiver
+50-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:47:9-56:20
+51            android:name="uz.gita.eventsapp.presentation.broadcast.TestReceiver"
+51-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:47:19-70
+52            android:enabled="true"
+52-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:48:13-35
+53            android:exported="true" >
+53-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:49:13-36
+54            <intent-filter>
+54-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:51:13-54:29
+55                <action android:name="android.intent.action.SCREEN_ON" />
+55-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:36:17-74
+55-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:36:25-71
+56                <action android:name="android.intent.action.SCREEN_OFF" />
+56-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:37:17-75
+56-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:37:25-72
+57            </intent-filter>
+58        </receiver>
+59
+60        <service
+60-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:58:9-61:56
+61            android:name="uz.gita.eventsapp.presentation.service.EventsService"
+61-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:59:13-63
+62            android:exported="false"
+62-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:60:13-37
+63            android:foregroundServiceType="dataSync" />
+63-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:61:13-53
+64        <service
+64-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:63:9-66:56
+65            android:name="uz.gita.eventsapp.presentation.service.TestService"
+65-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:64:13-61
+66            android:exported="false"
+66-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:65:13-37
+67            android:foregroundServiceType="dataSync" />
+67-->C:\2\projects\EventsApp\app\src\main\AndroidManifest.xml:66:13-53
+68
+69        <uses-library
+69-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0e9a42e3c5c341bc8aa5f9ad1c6a8a1d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+70            android:name="androidx.window.extensions"
+70-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0e9a42e3c5c341bc8aa5f9ad1c6a8a1d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+71            android:required="false" />
+71-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0e9a42e3c5c341bc8aa5f9ad1c6a8a1d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+72        <uses-library
+72-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0e9a42e3c5c341bc8aa5f9ad1c6a8a1d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+73            android:name="androidx.window.sidecar"
+73-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0e9a42e3c5c341bc8aa5f9ad1c6a8a1d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+74            android:required="false" />
+74-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0e9a42e3c5c341bc8aa5f9ad1c6a8a1d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+75
+76        <provider
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+77            android:name="androidx.startup.InitializationProvider"
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+78            android:authorities="uz.gita.eventsappMBF.androidx-startup"
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+79            android:exported="false" >
+79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+80            <meta-data
+80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+81                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+81-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+82                android:value="androidx.startup" />
+82-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\be6c3c883e6c6d1a003119c902a6589a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+83            <meta-data
+83-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-3\4750a75c946d60577436f1483828ca5c\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+84                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+84-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-3\4750a75c946d60577436f1483828ca5c\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+85                android:value="androidx.startup" />
+85-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-3\4750a75c946d60577436f1483828ca5c\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+86        </provider>
+87
+88        <service
+88-->[androidx.room:room-runtime:2.4.2] C:\Users\Lenovo\.gradle\caches\transforms-3\7a078e077f7435b6d9904e478d9abb87\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
+89            android:name="androidx.room.MultiInstanceInvalidationService"
+89-->[androidx.room:room-runtime:2.4.2] C:\Users\Lenovo\.gradle\caches\transforms-3\7a078e077f7435b6d9904e478d9abb87\transformed\room-runtime-2.4.2\AndroidManifest.xml:26:13-74
+90            android:directBootAware="true"
+90-->[androidx.room:room-runtime:2.4.2] C:\Users\Lenovo\.gradle\caches\transforms-3\7a078e077f7435b6d9904e478d9abb87\transformed\room-runtime-2.4.2\AndroidManifest.xml:27:13-43
+91            android:exported="false" />
+91-->[androidx.room:room-runtime:2.4.2] C:\Users\Lenovo\.gradle\caches\transforms-3\7a078e077f7435b6d9904e478d9abb87\transformed\room-runtime-2.4.2\AndroidManifest.xml:28:13-37
+92    </application>
+93
+94</manifest>

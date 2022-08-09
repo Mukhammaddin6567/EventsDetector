@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph.xml"
+    app:startDestination="@id/testScreen">
+
+    <fragment
+        android:id="@+id/splashScreen"
+        android:name="uz.gita.eventsapp.presentation.ui.screen.SplashScreen"
+        android:label="SplashScreen"
+        tools:layout="@layout/screen_splash" >
+        <action
+            android:id="@+id/action_splashScreen_to_eventsScreen"
+            app:destination="@id/eventsScreen"
+            app:enterAnim="@anim/anim_from_right_splash"
+            app:exitAnim="@anim/anim_to_left_splash"
+            app:popUpTo="@id/splashScreen"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/eventsScreen"
+        android:name="uz.gita.eventsapp.presentation.ui.screen.EventsScreen"
+        android:label="EventsScreen"
+        tools:layout="@layout/screen_events" />
+    <fragment
+        tools:layout="@layout/screen_test"
+        android:id="@+id/testScreen"
+        android:name="uz.gita.eventsapp.presentation.ui.screen.TestScreen"
+        android:label="TestScreen" />
+
+</navigation>
